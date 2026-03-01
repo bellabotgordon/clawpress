@@ -299,7 +299,6 @@ class ClawPress_Assistant_Admin {
 					}
 				});
 			});
-		});
 
 			$('#cp-done-claw').on('click', function() {
 				$('#cp-claw-setup').slideToggle(200);
